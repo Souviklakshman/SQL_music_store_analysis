@@ -27,5 +27,5 @@ PgAdmin4
 Schema-Music_store_analysis
 
 
+<img width="594" alt="schema_diagram" src="https://github.com/Souviklakshman/SQL_music_store_analysis/assets/138977501/d5258f34-029d-4750-8fd4-d6326b5cb22d">
 
-<img width="594" alt="schema_diagram" src="https://github.com/Souviklakshman/SQL_music_store_analysis/assets/138977501/ca77d9ca-be3a-414f-acf8-655b2b15c876">
